@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534278827400",
+    "firebase_url": "https://subwayproject-b4b05.firebaseio.com",
+    "project_id": "subwayproject-b4b05",
+    "storage_bucket": "subwayproject-b4b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534278827400:android:57a69282385875f5f51e3d",
+        "android_client_info": {
+          "package_name": "com.example.subwayhelpcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534278827400-21lp7rrdq32ipbhnnre4agi9ebvfi243.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_-mgeGR84x78D441zGxBQC4dKhe41Zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534278827400-21lp7rrdq32ipbhnnre4agi9ebvfi243.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
